@@ -8,7 +8,6 @@
 import numpy as np
 from random import choice
 from param_and_functions import*
-from pylab import find
 import winsound
 from Busqueda_local import busqueda_local
 import random

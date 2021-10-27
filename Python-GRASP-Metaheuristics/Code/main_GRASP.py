@@ -8,11 +8,9 @@
 import numpy as np
 from random import choice
 from param_and_functions import*
-from pylab import find
 from Busqueda_local import busqueda_local
 import random
 import winsound
-from pylab import find
 import matplotlib.pyplot as plt
 import time 
 from func_greedy import*
